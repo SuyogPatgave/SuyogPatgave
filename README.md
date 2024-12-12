@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Suyog (Edwin) Patgave
+<!--- ### Hi there 👋, I'm Suyog (Edwin) Patgave
 #### A data analyst just with a foot shy of being a data scientist!
 ![A data analyst just with a foot shy of being a data scientist!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -14,4 +14,4 @@ Skills: R / Python / SQL / Excel / Tableau / Power BI
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SuyogPatgave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/suyog-patgave99//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](suyogpatgave@outlook.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SuyogPatgave&show_icons=true&count_private=true)  
-
+--->
