@@ -1,12 +1,5 @@
-I am a data analyst with a focus on data-driven approaches to provide business, financial, and technical solutions and insights. I have collaborated in performing end-to-end analysis on topics such as Large Language Model Security (a comprehensive risk analysis project), network analysis with graph theory, data mining, natural language processing, and more.
-
-I am interested in undertaking real-world challenges, exploring multiple analytical techniques, and continuously honing my skills through practical projects.
-
-Feel free to reach out to me through email or LinkedIn.
-
-(PS: I will keep my profile updated with the latest developments and projects------ stay tuned!)
 <!---
-- 👋 Hi, I’m @SuyogPatgave
+- 👋 Hi, I’m @SuyogPatgave, a data analyst just a foot shy of being a data scientist!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
