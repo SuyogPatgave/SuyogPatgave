@@ -23,7 +23,7 @@ Skills: R / Python / SQL / Excel / Tableau / Power BI
 
 
 ###### (PS: I am updating my profile, stay tuned...)
---->
+
 <!---
 SuyogPatgave/SuyogPatgave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
