@@ -18,7 +18,7 @@ Skills: R / Python / SQL / Excel / Tableau / Power BI
 - 👋 Hi, I’m @SuyogPatgave, a data analyst just a foot shy of being a data scientist!
 - 👀 I am interested in solving complex problems to provide data-driven solutions with statistical backing and proven significance.
 - 🌱 I am currently exploring practical ways to solve real-world problems while expanding my knowledge in problem-solving strategies and logic across domains like business, finance, NLP, etc.
-- 🤝 
+- 🤝 I am willing to collaborate with analysts, creators, developers— basically anyone who needs assistance not just with data-driven strategies and actionable insighst but to create something new. I am an avid learner and an explorer, not withhold to any stream of thoughts. Open and curious.
 - 📫 Feel free to reach out to me on e-mail and LinkedIn profile.
 
 
