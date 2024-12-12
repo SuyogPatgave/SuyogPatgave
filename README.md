@@ -15,3 +15,15 @@ Skills: R / Python / SQL / Excel / Tableau / Power BI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SuyogPatgave&show_icons=true&count_private=true)  
 --->
+- 👋 Hi, I’m @SuyogPatgave, a data analyst just a foot shy of being a data scientist!
+- 👀 I am interested in solving complex problems to provide data-driven solutions with statistical backing and proven significance.
+- 🌱 I am currently exploring practical ways to solve real-world problems while expanding my knowledge in problem-solving strategies and logic across domains like business, finance, NLP, etc.
+- 🤝 
+- 📫 Feel free to reach out to me on e-mail and LinkedIn profile.
+
+
+###### (PS: I am updating my profile, stay tuned...)
+--->
+<!---
+SuyogPatgave/SuyogPatgave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
