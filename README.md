@@ -9,5 +9,5 @@ I am willing to collaborate with analysts, creators, and developers—basically 
 
 ### 🛠️Skills: R / Python / SQL / Excel / Tableau / Power BI
 
-### 💬:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuyogPatgave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/suyog-patgave99//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](suyogpatgave@outlook.com)  
+
+### 💬: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuyogPatgave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/suyog-patgave99//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](suyogpatgave@outlook.com)  
