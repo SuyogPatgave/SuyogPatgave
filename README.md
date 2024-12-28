@@ -1,5 +1,5 @@
-### Hi there 👋, Suyog here!
-#### A data analyst just with a foot shy of being a data scientist!
+## Hi there 👋, Suyog here!
+### A data analyst just with a foot shy of being a data scientist!
 ![A data analyst just with a foot shy of being a data scientist!](https://github.com/SuyogPatgave/Me/blob/main/Git%20Readme.jpg?raw=true)
 
 I am interested in solving complex problems and provide data-driven solutions with statistical significance. I am currently exploring different methodologies to solve real-world problems while expanding my knowledge across domains like business, finance, and NLP.
