@@ -1,5 +1,3 @@
-(https://gmuedu-my.sharepoint.com/:i:/r/personal/spatagav_gmu_edu/Documents/Git_Readme.png?csf=1&web=1&e=zhh0dm)
-
 ## Hi there 👋, I'm Suyog!
 ### A data analyst just with a foot shy of being a data scientist! 👨‍💻
 
