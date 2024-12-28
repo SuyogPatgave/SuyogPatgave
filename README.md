@@ -6,7 +6,7 @@ I am interested in solving complex problems and provide data-driven solutions wi
 
 I am willing to collaborate with analysts, creators, and developers—basically anyone who needs assistance not just with data-driven strategies and actionable insights but to create something new. I am an avid learner and an explorer, not withheld to any stream of thoughts—always open and curious.
 
-## 🛠️Skills and Experience
+## 🛠️Skills
 * 💻: R, Python, Excel
 * ❄️: SQL
 * 📊: Tableau, Power BI
